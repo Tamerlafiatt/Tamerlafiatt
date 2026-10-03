@@ -249,6 +249,22 @@ Research areas:
 - Diabetes Risk Prediction
 
 ---
+### 6. Pruning Deep Networks Using Temporal Dynamics of Weight Evolution
+
+**IEEE Open Journal of the Computer Society**
+
+**Status:** Submitted and under publication processing
+
+Research areas:
+
+- Neural Network Pruning
+- Model Compression
+- Temporal Weight Dynamics
+- Efficient Deep Learning
+- Model Optimization
+
+Related repository:  
+[**Adaptive-Model-Pruning**](https://github.com/Tamerlafiatt/Adaptive-Model-Pruning)
 
 ## 🔐 Privacy-Preserving & Efficient AI Research
 
