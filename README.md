@@ -66,7 +66,33 @@ Main topics:
 - Cybersecurity
 
 ---
+### 📚 Local RAG_LLM — Document Reading & Information Retrieval
 
+A fully local Retrieval-Augmented Generation pipeline for querying PDF documents using semantic search and a local LLM.
+
+**Repository:**  
+[simple-rag-llm-document-reading-information-retrieval](https://github.com/Tamerlafiatt/simple-rag-llm-document-reading-information-retrieval)
+
+**Pipeline:**
+
+- PDF extraction with PyMuPDF
+- Recursive document chunking
+- BGE embeddings
+- FAISS semantic retrieval
+- Qwen3:4B through Ollama
+- Local grounded answer generation
+- Source and page tracking
+
+**Main topics:**
+
+- Retrieval-Augmented Generation
+- Large Language Models
+- Information Retrieval
+- Vector Databases
+- Semantic Search
+- FAISS
+- Ollama
+- Local AI
 ### ✂️ Adaptive Model Pruning
 
 Research and experimentation on **weight-change detection and adaptive neural network pruning** for reducing model complexity while preserving predictive performance.
