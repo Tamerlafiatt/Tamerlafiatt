@@ -71,8 +71,6 @@ Main topics:
 
 Research and experimentation on **weight-change detection and adaptive neural network pruning** for reducing model complexity while preserving predictive performance.
 
-Repository:  
-[**Adaptive-Model-Pruning**](https://github.com/Tamerlafiatt/Adaptive-Model-Pruning)
 
 Main topics:
 
